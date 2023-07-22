@@ -110,7 +110,7 @@ align-items: center;
 .book-image {
   width: 160px;
   border-right: 10px double white;
-  transform: rotate(-2deg);
+  transform: rotate(1deg);
   height: 250px;
 }
 .prag{
